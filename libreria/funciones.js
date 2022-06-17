@@ -13,18 +13,18 @@ const { fromBuffer } = require('file-type');
 const spinner = { 
   "interval": 120,
   "frames": [
-    "=           [NeKosmic ✓] 🕛",
-    "===         [NeKosmic ✓] 🕐",
-    "=====       [NeKosmic ✓] 🕑",
-    "=======     [NeKosmic ✓] 🕒",
-    "=====       [NeKosmic ✓] 🕓",
-    "===         [NeKosmic ✓] 🕔",
-    "=           [NeKosmic ✓] 🕕",
-    "===         [NeKosmic ✓] 🕖",
-    "=====       [NeKosmic ✓] 🕗",
-    "=======     [NeKosmic ✓] 🕙",
-    "=====       [NeKosmic ✓] 🕚",
-    "===         [NeKosmic ✓] 🕛"
+    "=           [Insano ✓] 🕛",
+    "===         [Insano ✓] 🕐",
+    "=====       [Insano ✓] 🕑",
+    "=======     [Insano ✓] 🕒",
+    "=====       [Insano ✓] 🕓",
+    "===         [Insano ✓] 🕔",
+    "=           [Inssno ✓] 🕕",
+    "===          [Insano ✓] 🕖",
+    "=====       [Insano ✓] 🕗",
+    "=======     [Insano ✓] 🕙",
+    "=====       [Insano✓] 🕚",
+    "===         [Insano ✓] 🕛"
   ]}
 
         let globalSpinner;
