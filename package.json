@@ -1,5 +1,5 @@
 {
-  "name": "Quantum-Bot",
+  "name": "Insano-Bot",
   "version": "1.0.0",
   "description": "Bot para Whatsapp en español y un poco multilingüe :v",
   "main": "Quantum.js",
@@ -17,7 +17,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "Matt_Mdz",
+  "author": "Isano",
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -60,10 +60,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeKosmic/Quantum-Bot.git"
+    "url": "git+https://github.com/sapitoBot2/Bot-insano"
   },
   "bugs": {
-    "url": "https://github.com/NeKosmic/Quantum-Bot/issues"
+    "url": "https://github.com/sapitoBot2/Bot-insano"
   },
-  "homepage": "https://github.com/NeKosmic/Quantum-Bot#readme"
-}
+  "homepage": "https://github.com/sapitoBot2/Bot-insano#readme"
+} 
